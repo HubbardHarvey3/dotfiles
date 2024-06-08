@@ -110,7 +110,6 @@ source /etc/profile
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-alias docker="sudo docker"
 alias nvim="$HOME/nvim-linux64/bin/nvim"
 export GO111MODULE="on"
 export GOBIN="/home/hharvey/go/bin"
