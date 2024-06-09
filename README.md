@@ -15,3 +15,5 @@ sudo apt-get install stow
     ```
     cd dotfiles && stow .
     ```
+
+3. You will need to cp the hharvey.omp.json file into the $HOME/.config/omp file path to get the design working.

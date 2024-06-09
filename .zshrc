@@ -125,5 +125,3 @@ export PATH=$PATH:$GROOVY_HOME/bin:/home/hharvey/bin
 export PATH=$PATH:/home/hharvey/go/bin
 
 eval "$(oh-my-posh init zsh --config $HOME/.config/omp/hharvey.omp.json)"
-# Load Angular CLI autocompletion.
-source <(ng completion script)
