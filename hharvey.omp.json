@@ -102,7 +102,7 @@
           "type": "go",
           "style": "plain",
           "foreground": "p:light-sky-blue",
-          "template": "\uFCD1 {{ .Full}}"
+          "template": "\ue627 {{ .Full}}"
         },
         {
           "type": "command",
